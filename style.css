@@ -1,0 +1,18 @@
+.picone{
+    background-color: grey;
+    box-shadow: pink;
+    color: red;
+    font-size: large;
+    font-family: cursive;
+    font-weight: bolder;
+    border-radius: 30px;
+    display: inline-block;
+    width: 700px;
+}
+img{
+    height: 300px;
+    width: 275px;
+}
+h3{
+    float: right;
+}
